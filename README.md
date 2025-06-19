@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1>Opa, bão? <br>
+Eu me chamo Wendell Campos!  
+</h1>
+<p>Desenvolvedor Web em transição de carreira, com experiência em
+contabilidade e análise de dados, Apaixonado por tecnologia. busco uma oportunidade para atuar em projetos
+que envolvam tanto o desenvolvimento de sistemas inovadores e/ou análise
+de dados para tomada de decisões estratégicas. 
+</p>
+
+![Imagem_do_WhatsApp_de_2025-06-19_à_s__19 49 15_a9271f7d-removebg-preview](https://github.com/user-attachments/assets/099938dd-66bf-44eb-aafa-143cd8fc2755)
 
 <!--
 **W3nde11/W3nde11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
