@@ -22,7 +22,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="100%">
 
 
 
@@ -91,14 +91,7 @@
 
 
 ## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=W3nde11&show_icons=true&theme=chartreuse-dark)
-</div>  
-
+ 
 <br/>  
 
 <div align="center">
